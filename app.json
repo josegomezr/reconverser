@@ -1,0 +1,12 @@
+{
+  "updates":{
+    "enabled": false
+  },
+  "expo": {
+    "name": "Aula UPC",
+    "version": "1.0.0",
+    "slug": "aula-upc",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait"
+  }
+}
